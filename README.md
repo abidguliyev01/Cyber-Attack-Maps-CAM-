@@ -6,7 +6,7 @@ A list of real-time cyber attack maps.
 
 A curated list of cyber attack maps and threat intelligence visualizations.
 
-## 📡 Attack Maps
+##  Attack Maps
 
 | # | Provider | Link |
 |---:|---|---|
